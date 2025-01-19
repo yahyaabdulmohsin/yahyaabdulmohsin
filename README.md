@@ -5,7 +5,7 @@
 
 <h4>other (crurrently) private projects I am working on</h4>
 <ul>
-  <li>UFO: HTML & CSS replacement</li>
+  <li>UFO: HTML & CSS replacement.</li>
   <li>SN: a new general-purpose programming language.</li>
   <li>Rivox: a cross-architecture cross-OS assembly language.</li>
   <li>WebJVM: a way to run all type of java applications inside the browser.</li>
