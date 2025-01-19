@@ -5,7 +5,7 @@
   <li><a href="https://yahyaabdulmohsin.com">My personal website</a></li>
 </ul>
 
-<h4>Upcoming public project</h4>
+<h4>Upcoming public projects</h4>
 <ul>
   <li>YoYo: a very simple toy language compiler aimed to be a useful base for people who want to build compilers.</li>
 </ul>
@@ -18,6 +18,7 @@
   <li>SmartInvestor: a software that analyzes multiple parameters affecting a stock price for a given timeframe.</li>
   <li>CocoServer: a server for one of my childhood flash games (similat to Club Penguin).</li>
   <li>YFProject: a Flash SWF toolkit.</li>
+  <li>OpenOptical: the first fully working optical CPU.</li>
 </ul>
 
 <!---
