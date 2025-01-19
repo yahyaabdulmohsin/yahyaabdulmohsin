@@ -1,10 +1,3 @@
-<h4>Links</h4>
-<ul>
-  <li><a href="https://youtube.com/@yahya.abdulmohsin">My personal YouTube</a></li>
-  <li><a href="https://patreon.com/yahyaabdulmohsin">My personal Patreon</a></li>
-  <li><a href="https://yahyaabdulmohsin.com">My personal website</a></li>
-</ul>
-
 <h4>Upcoming public projects</h4>
 <ul>
   <li>YoYo: a very simple toy language compiler aimed to be a useful base for people who want to build compilers.</li>
