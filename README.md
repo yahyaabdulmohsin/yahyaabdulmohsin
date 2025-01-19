@@ -10,6 +10,7 @@
   <li>Rivox: a cross-architecture cross-OS assembly language.</li>
   <li>WebJVM: a way to run all type of java applications inside the browser.</li>
   <li>SmartInvestor: a software that analyzes multiple parameters affecting a stock price for a given timeframe.</li>
+    <li>Shark: a project that lets you build scratch games using a scripting language and vice-versa</li>
   <li>SNOS: a very simple toy operating system made using SN (my programming language).</li>
   <li>CocoServer: a server for one of my childhood flash games (similat to Club Penguin).</li>
   <li>SNES: an NES emulator made using SN (my programming langauge).</li>
