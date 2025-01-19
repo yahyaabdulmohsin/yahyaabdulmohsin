@@ -17,8 +17,8 @@
   <li>WebJVM: a way to run all type of java applications inside the browser.</li>
   <li>SmartInvestor: a software that analyzes multiple parameters affecting a stock price for a given timeframe.</li>
   <li>CocoServer: a server for one of my childhood flash games (similat to Club Penguin).</li>
-  <li>YFProject: a Flash SWF toolkit.</li>
   <li>OpenOptical: the first fully working optical CPU.</li>
+  <li>YFProject: a Flash SWF toolkit.</li>
 </ul>
 
 <!---
