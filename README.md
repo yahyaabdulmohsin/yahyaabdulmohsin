@@ -10,8 +10,8 @@
   <li>Rivox: a cross-architecture cross-OS assembly language.</li>
   <li>WebJVM: a way to run all type of java applications inside the browser.</li>
   <li>SmartInvestor: a software that analyzes multiple parameters affecting a stock price for a given timeframe.</li>
-  <li>CocoServer: a server for one of my childhood flash games (similat to Club Penguin).</li>
   <li>SNOS: a very simple toy operating system made using SN (my programming language).</li>
+  <li>CocoServer: a server for one of my childhood flash games (similat to Club Penguin).</li>
   <li>SNES: an NES emulator made using SN (my programming langauge).</li>
   <li>AnotherOne: a very simple game engine for simple game jams,</li>
   <li>OpenOptical: the first fully working optical CPU.</li>
