@@ -2,7 +2,7 @@
 <ul>
   <li><a href="https://youtube.com/@yahya.abdulmohsin">My personal YouTube channel</a></li>
   <li><a href="https://patreon.com/yahyaabdulmohsin">My personal Patreon</a></li>
-  <li><a href="https://yahyaabdulmohsin.com">My personal website and blog</a></li>
+  <li><a href="https://yahyaabdulmohsin.com">My personal website</a></li>
 </ul>
 
 <h4>Upcoming public project</h4>
