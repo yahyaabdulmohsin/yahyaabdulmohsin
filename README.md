@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @yahyaabdulmohsin
-- 👀 I’m interested in software, hardware, and money
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on billion-dollar projects
-- 📫 How to reach me? Email me at: yahyaabdulmohsn@gmail.com
+Take a look into my <a href="https://www.youtube.com/@yahya.abdulmohsin">youtube channel</a>.
 
 <!---
 yahyaabdulmohsin/yahyaabdulmohsin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
