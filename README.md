@@ -1,7 +1,11 @@
-Take a look into my <a href="https://www.youtube.com/@yahya.abdulmohsin">youtube channel</a>.
+<h4>Links</h4>
+<ul>
+  <li><a href="youtube.com/@yahya.abdulmohsin">My personal YouTube channel</a></li>
+  <li><a href="patreon.com/yahyaabdulmohsin">My personal Patreon</a></li>
+  <li><a href="yahyaabdulmohsin.com">My personal website and blog</a></li>
+</ul>
 
 <h4>Upcoming public project</h4>
-
 <ul>
   <li>YoYo: a very simple toy language compiler aimed to be a useful base for people who want to build compilers.</li>
 </ul>
