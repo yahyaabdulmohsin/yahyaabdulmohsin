@@ -1,8 +1,8 @@
 <h4>Links</h4>
 <ul>
-  <li><a href="youtube.com/@yahya.abdulmohsin">My personal YouTube channel</a></li>
-  <li><a href="patreon.com/yahyaabdulmohsin">My personal Patreon</a></li>
-  <li><a href="yahyaabdulmohsin.com">My personal website and blog</a></li>
+  <li><a href="https://youtube.com/@yahya.abdulmohsin">My personal YouTube channel</a></li>
+  <li><a href="https://patreon.com/yahyaabdulmohsin">My personal Patreon</a></li>
+  <li><a href="https://yahyaabdulmohsin.com">My personal website and blog</a></li>
 </ul>
 
 <h4>Upcoming public project</h4>
