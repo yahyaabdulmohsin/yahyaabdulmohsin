@@ -1,4 +1,4 @@
-<h4>Upcoming public project</h4>
+<h4>Upcoming public project:</h4>
 YoYo: a very simple toy language compiler aimed to be a useful base for people who want to build compilers.
 
 <!---
