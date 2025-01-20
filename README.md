@@ -13,6 +13,7 @@
   <li>Shark: a project that lets you build scratch games using a scripting language and vice-versa.</li>
   <li>SNOS: a very simple toy operating system made using SN (my programming language).</li>
   <li>CocoServer: a server for one of my childhood flash games (similat to Club Penguin).</li>
+  <li>GoodOl: a program that converts windoes binarise to native linux binaries</li>
   <li>SNES: an NES emulator made using SN (my programming langauge).</li>
   <li>AnotherOne: a very simple game engine for simple game jams,</li>
   <li>OpenOptical: the first fully working optical CPU.</li>
